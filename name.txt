@@ -1,12 +1,9 @@
 New name
 Charan
 
-<<<<<<< HEAD
 Raj
 
 m2
 mm4
-=======
 f1
 f2
->>>>>>> feature
